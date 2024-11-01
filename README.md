@@ -1,4 +1,4 @@
-# first-repositorio
+# Repositorio del proyecto Inicio
 Primer repositorio creada en GitHub
 
 ##
